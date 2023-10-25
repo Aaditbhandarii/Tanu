@@ -1,0 +1,150 @@
+
+img{
+    width: 600px;
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.main{
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100%;
+position: relative;
+}
+.text1{
+    position: absolute;
+    z-index: 1;
+    top: 0%;
+    left: 32%;
+    color: aliceblue;
+}
+.text2{
+    position: absolute;
+    z-index: 1;
+    top: 5%;
+    left: 32%;
+    color: aliceblue;
+}
+.text3{
+    position: absolute;
+    z-index: 1;
+    top: 10%;
+    left: 32%;
+    color: aliceblue;
+}
+.text4{
+    position: absolute;
+    z-index: 1;
+    top: 15%;
+    left: 32%;
+    color: aliceblue;
+}
+.text5{
+    position: absolute;
+    z-index: 1;
+    top: 20%;
+    left: 32%;
+    color: aliceblue;
+}
+.text6{
+    position: absolute;
+    z-index: 1;
+    top: 25%;
+    left: 32%;
+    color: aliceblue;
+}
+.text7{
+    position: absolute;
+    z-index: 1;
+    top: 30%;
+    left: 32%;
+    color: aliceblue;
+}
+.text8{
+    position: absolute;
+    z-index: 1;
+    top: 35%;
+    left: 32%;
+    color: aliceblue;
+}
+.text9{
+    position: absolute;
+    z-index: 1;
+    top: 40%;
+    left: 32%;
+    color: aliceblue;
+}
+.text10{
+    position: absolute;
+    z-index: 1;
+    top: 45%;
+    left: 32%;
+    color: aliceblue;
+}
+.text11{
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 32%;
+    color: aliceblue;
+}
+.text12{
+    position: absolute;
+    z-index: 1;
+    top: 55%;
+    left: 32%;
+    color: aliceblue;
+}
+.text13{
+    position: absolute;
+    z-index: 1;
+    top: 60%;
+    left: 32%;
+    color: aliceblue;
+}
+.text14{
+    position: absolute;
+    z-index: 1;
+    top: 65%;
+    left: 32%;
+    color: aliceblue;
+}
+.text15{
+    position: absolute;
+    z-index: 1;
+    top: 70%;
+    left: 32%;
+    color: aliceblue;
+}
+.text16{
+    position: absolute;
+    z-index: 1;
+    top: 75%;
+    left: 32%;
+    color: aliceblue;
+}
+.text17{
+    position: absolute;
+    z-index: 1;
+    top:80%;
+    left: 32%;
+    color: aliceblue;
+}
+.text18{
+    position: absolute;
+    z-index: 1;
+    top: 85%;
+    left: 32%;
+    color: aliceblue;
+}
+.text19{
+    position: absolute;
+    z-index: 1;
+    top:90%;
+    left: 32%;
+    color: aliceblue;
+}
